@@ -1,8 +1,8 @@
 /*
- * Name:
+ * Name: Chris Caldwell
  * Date Submitted:
- * Lab Section:
- * Assignment Name:
+ * Lab Section: 003
+ * Assignment Name: Lab 4 - Searching and Sorting
  */
 
 #pragma once
