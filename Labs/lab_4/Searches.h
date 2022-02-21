@@ -12,8 +12,9 @@
 template <class T>
 int linearSearch(std::vector<T> data, T target){
     for(int i = 0; i < data.size(); i++){
-        if(target == data.at(i)) return i;
+        if(target == data[i]) return i;
     }
+    
     return -1;
 }
 
